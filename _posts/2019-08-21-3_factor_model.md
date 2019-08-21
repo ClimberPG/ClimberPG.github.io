@@ -1,6 +1,7 @@
 ---
 layout:		post
-title:		Python basic financial data analytics
+title:		Python Finance analytics
+subtitle:   3-factor-model
 date:		2019-08-21
 author:		Climber_PG
 catalog:	true
@@ -10,6 +11,7 @@ tags:
 	- Scraping
 	- Regression
 	- 3-factor
+
 ---
 
 # 3-factor-model
@@ -18,4 +20,4 @@ tags:
 
 ## Source code & slides
 
-![源代码](https://github.com/ClimberPG/FinanceAnalysis)
+[Source Code](https://github.com/ClimberPG/FinanceAnalysis)
